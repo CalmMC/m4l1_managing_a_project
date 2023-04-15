@@ -1,13 +1,13 @@
 Crimson
 Orange
-Blue
+Blue was Green
 Cyan
 Yellow
-Charcoal
+Charcoal was Ivory
 Khaki
 Coral
 Silver
 Fuchsia
-Purple
+Purple was Gray
 Brown
 Red
